@@ -28,7 +28,7 @@ body{
   background-color: var(--background-color);
   
 }
-
+ 
 
 .container{
     grid-row: 2/3;
@@ -102,4 +102,10 @@ p{
 .profile > h4{
   padding-left: 20px;
 }
-
+h1{
+  font-size: 25px;
+}
+h1:hover {
+  color: yellow;
+  cursor: pointer;
+}
